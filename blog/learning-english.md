@@ -4,11 +4,17 @@ title: Learning English
 permalink: /blog/learning-english/
 ---
 
-# Learning English
+# Learning English 🌏
 
-My journey to improving English skills, with a focus on IELTS preparation:
+Welcome to my Learning English page! Here, I share all my practice essays, reflections, and tips for mastering IELTS Writing.
 
-## Blog Posts
-{% for post in site.categories.learning_english %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+---
+
+## Latest Essays 📝
+{% for post in site.categories.ielts_writing %}
+- **[{{ post.title }}]({{ post.url }})** - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
+
+
+
+
