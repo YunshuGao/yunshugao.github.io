@@ -1,0 +1,29 @@
+title: "Yunshu Gao's Blog"
+description: "Insights on teaching, IT, Humanities, and learning English."
+baseurl: "" # Leave empty for root
+url: "https://yunshugao.github.io"
+theme: minima
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  math_engine: mathjax
+
+# Categories for blog
+collections:
+  teaching_reflections:
+    output: true
+  it_teaching:
+    output: true
+  humanities:
+    output: true
+  learning_english:
+    output: true
+  ielts_writing:
+    output: true
+
+# Exclude unnecessary folders
+exclude:
+  - node_modules
+  - vendor
