@@ -25,8 +25,8 @@ Living in a country where you have to speak a foreign language can cause serious
 - **Paraphrase the Statement**:  
   Living in a country where the local language is different from your own can lead to significant social and practical challenges.
 - **State Your Opinion**:  
-  Clearly state that you partially agree with the statement.  
-  Example: *While I agree that language barriers can create serious social and practical problems, I believe these challenges can often be overcome with effort and support.*
+  *Clearly state that you partially agree with the statement*
+  While I agree that language barriers can create serious social and practical problems, I believe these challenges can often be overcome with effort and support.
 
 #### Body Paragraph 1: Argument Supporting the Statement
 - **Main Point**:  
