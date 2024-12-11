@@ -1,17 +1,26 @@
 ---
 layout: post
-title: "IELTS Task 2: Practice Essay on Line Graphs"
+title: "IELTS Task 2: Living in a Foreign Country"
 date: 2024-12-11
 categories: ielts_writing
 ---
+### Question Types
+"To what Extent Do you Agree or Disagree?"
+This is an opinion essay type, where:
+You must express your opinion on the statement
+Your stance could be:
+1. Fully agree
+2. Fully disagree, or
+3. Partially agree/disagree
+
 
 ### Writing Task 2: Living in a Foreign Country
 
 #### Question
-The line graph below shows the number of tourists visiting three different attractions from 2010 to 2020. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+Living in a country where you have to speak a foreign language can cause serious social problems, as well as pratical problems.To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience.
 
 #### My Essay
-The line graph illustrates the trends in tourist visits to three popular attractions over the ten-year period...
+
 
 #### Feedback
 - Strength: Clear use of comparative phrases.
