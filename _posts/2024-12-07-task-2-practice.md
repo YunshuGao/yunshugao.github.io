@@ -8,6 +8,12 @@ categories: ielts_writing
 ### Writing Task 2 Question: 
 some people believe that allowing children to make their own choices on everyday matters (such as food, clothes and entertainment) is likely to result in a society of individuals who only think about their own wishes.Other people believe that it is important for children to make decisions about matters that affect them.Discuss both these views and give your own opinions.Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.
 
+### Question Types
+"Discuss Both Views and Give Your Own Opinion"
+This is a discussion essay type, where
+1. You must discuss both perspectives presented in the statement.
+2. You also need to state your opinion clearly, which could align with one view or present a balanced perspective.
+
 ### Scaffolding the Task and make a draft
 #### Introduction
 - **Paraphrase the Topic**:
