@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "IELTS Task 2: Practice Essay on Line Graphs"
+title: "IELTS Task 2: Choices"
 date: 2024-12-11
 categories: ielts_writing
 ---
 
-### Writing Task 2: Living in a Foreign Country
+### Writing Task 2: Choices
 
 #### Question
-The line graph below shows the number of tourists visiting three different attractions from 2010 to 2020. Summarize the information by selecting and reporting the main features, and make comparisons where relevant.
+Some people believe that nowadays we have too many choices.To what extent do you agree or disagree with this statement? Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.
 
 #### My Essay
-The line graph illustrates the trends in tourist visits to three popular attractions over the ten-year period...
+The
 
 #### Feedback
 - Strength: Clear use of comparative phrases.
