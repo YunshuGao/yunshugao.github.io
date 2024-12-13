@@ -72,12 +72,20 @@ While some believe that the extinction of plants and animals is the most critica
     
 2. The loss of certain species is undoubtedly a critical environmental issue today. Human activities, such as urban expansion, have destroyed significant ecological spaces,putting many species at risk of extinction.Furthermore,the rate of species extinction has accelerated,making it increasingly difficult to protect them. As a result, the stability of ecosystems faces significant challenges as more species are lost.
 
+The loss of certain species is undoubtedly a serious environmental problem today. Human activities,including urban expansion and deforestation, have significantly damaged ecological spaces, pacing many species at risk of extinction.Additionally, the accelerated rate of species extinction has made it increasingly difficult to preserve biodiversity.For example, the destruction of rainforests for agricultural purposes has led to the disappearance of numerous plant and animal species.This threatens the stability of ecosystems, which depend on biodiversity for resilience and productivity.
 
 3. On the other hand, we also face other critical environmental challenges, such as pollution, deforestation, and climate change.For instance, air pollution in urban area causes severe health problems.People exposed to high levels of air pollution are at greater risk of developing cancer.Additionally, climate change has led to more frequent extreme weather events.For example, Spain experienced severe flooding two months ago, resulting in significant damage and loss.
 
+On the other hand, other environmental challenges, such as pollution, deforestation, and climate change, are equally pressing.For instance,air pollution in urban areas not only contributes to global warming but also poses severe health risks to humans, including respiratory diseases and cancer. Furthermore, climate change has led to more frequent extreme weather events, such as flooding and hurricanes, which cause significant damage to lives and infrastructure. A recent example is the severe flooding in Spain, which resulted in widespread destruction and economic loss. These challenges highlight the need for urgent action to address environmental problems beyond beyond the loss of species.
+
 4. In my opinion, there are causal relationships among environmental issues, and they should be addressed as holistic challenges.For example, population growth places immense pressure on natural resources. The high demand for residential land and timber has led to large-scale deforestation,destroying habitats and pushing many species toward extinction.By addressing deforestation, we can not only protect rainforests but also safeguard the species that depend on them.
+
+In my view, environmental issues are deeply interconnected, and treating them as isolated problems is ineffective. For example, population growth drives the demand for residential land and timber, leading to large-scale deforestation.This, in turn, destroys habitats and increases the risk of species extinction while also contributing to climate change.By tackling deforestation,we can protect not only rainforests but also the biodiversity and ecosystems they support. This demonstrates the importance of addressing environmental issues as part of a comprehensive strategy.
+
    
 5. In conclusion, while opinions may differ on whether we should prioritize protecting certain species, environmental issues should be addressed as holistic challenges to ensure a sustainable future.
+
+In conclusion, while some may argue that the loss of plants and animals should be prioritized, environmental problems are interconnected and require a holistic approach.By addressing these challenges collectively, we can ensure the long-term sustainability of our planet.
 
 #### Feedback
 - Strength: Clear use of comparative phrases.
