@@ -1,22 +1,44 @@
 ---
 layout: post
 title: "Reflections on Hobbes' *Leviathan*"
-date: 2024-12-10
+date: 2024-12-14
 categories: humanities_reading
 excerpt: "Understanding Hobbes' concept of the social contract and its implications for modern governance."
 ---
 
-## Key Ideas from *Leviathan*
-- Hobbes argues that human life in a state of nature is "solitary, poor, nasty, brutish, and short."
-- To escape this chaos, individuals enter into a **social contract**, giving up certain freedoms to a sovereign authority in exchange for order and protection.
-- Hobbes emphasizes the need for a strong, centralized power (the Leviathan) to enforce this contract.
+## Key Ideas from *Civics and Citizenship*
+| **Aspect**            | **Civics**                                | **Citizenship**                          |
+|------------------------|-------------------------------------------|------------------------------------------|
+| **Nature**             | Study of systems and structures.          | Active engagement and participation.     |
+| **Focus**              | Knowledge about government and laws.      | Responsibilities and contributions of citizens. |
+| **Goal**               | Understanding how society functions.      | Becoming an active, responsible member of society. |
+| **Example**            | Learning about how elections work.        | Voting in an election or volunteering in your community. |
+
 
 ## Reflection
-Hobbes' *Leviathan* provides a foundation for understanding the origins of political authority and governance. As a Humanities teacher, this work offers a great opportunity to discuss:
-- The balance between freedom and security.
-- How Hobbes’ ideas compare to other political philosophers, such as Locke and Rousseau.
-- The relevance of Hobbesian thought in contemporary discussions on government surveillance and individual rights.
+Civics and citizenship teaches us to 'agree to disagree'.That is, we learn to form our own opinions but accept that other people will have different views.
 
+## Democracy
+The term democracy comes from the Greek words 'demos'(meaning citizen) and 'kratos'(meaning rule).
+In most democratic societies, citizens are involved in the running of society by electing people who will represent them in government.Representatives of the people then develop policies and make laws on behalf of the people who have elected them.
+
+The Australian House of Representatives is made up of the people we have elected to represent us in our democracy.
+
+The freedoms are a very important part of living in a democracy as they allow us to participate and have a say in the way our country is run.
+
+If we couldn't safely participate in our society, then it wouldn't be a democracy at all.
+
+## Key Grammar Points for the Second Conditional
+1. Purpose
+   The second conditional is used for hypothetical or unlikely situations in the present or future and their imagined results.
+   
+2. Sentence Structure
+   If + past simple, (then) + would/could/might + base verb
+   The if-clause presents the imaginary condition.
+   The result clause shows what would happen if the condition were true.
+## It is sometimes referred to as
+The phrase "it is sometimes referred to as" is a formal and academic way to introduce an alternative name, term, or concept that something is known by. It’s particularly useful in essays to clarify terms or provide additional context.
+   
 ## Teaching Takeaways
 1. **Discussion Questions**:
    - How does Hobbes’ view of human nature differ from other philosophers?
