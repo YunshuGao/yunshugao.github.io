@@ -36,9 +36,47 @@ If we couldn't safely participate in our society, then it wouldn't be a democrac
    If + past simple, (then) + would/could/might + base verb
    The if-clause presents the imaginary condition.
    The result clause shows what would happen if the condition were true.
+
+## Review Grammar
+Though you may aspire to be something other than a grammarian, knowing how to use proper grammar is always an advantage - especially in the workplace. Most jobs that provide you with a desk (and many jobs that don't!) demand that you know how to communicate in both speech and writing.
+Good grammar
+1. Better grades
+2. Skill in communicating exactly what you mean
+3. A higher-paying or higher-status job
+4. Speech and writing that presents you as an educated, intelligent person
+5. Polished skills in English as a second language
+
+I honestly don't care whether you can identify an indirect object. I do, however, care a great deal about your ability to construct a complete sentence that communicates information clearly and meets the needs of your audience.
+
+## Descriptive Grammar
+1. Difinition: Descriptive grammar identifies and labels parts of speech(e.g., nouns, verbs) and explains what each word does in a sentence(its function).
+
+## Functional Grammar
+1. Functional grammar focuses on how words and sentences behave in real-life usage, ensuring the correct arrangement and expression of ideas.
+
+## The key Formula
+A little descriptive grammar + a lot of functional grammar = better grammar overall
+Descriptive Grammar = The "labels" (what words are and their roles).
+Functional Grammar = The "how-to" (making sentences work properly in real life)
+
 ## It is sometimes referred to as
 The phrase "it is sometimes referred to as" is a formal and academic way to introduce an alternative name, term, or concept that something is known by. It’s particularly useful in essays to clarify terms or provide additional context.
-   
+
+# The Big Ideas of Grammar
+Chooing the right words to get your point across to a reader or listener, putting those words in the right order, and(when you're writing) inserting the correct punctuation marks(commas,apostropes, and so on) in the correct places.
+1. Selecting verb forms that match the subjects in your sentence
+2. Using the right pronouns
+3. Deciding between adjectives and adverbs
+4. Choosing wisely between two(or more) words that sound similar or seem to be interchangeable(but aren't)
+Each of these issues contributes to clear and correct communication.By paying attention to these areas, you can avoid common mistakes and improve your grammar.
+
+Avoiding the repetitive sentences and expression and Spicing up boring sentences
+1. Start by writing simple sentences like in the first paragraph.
+2. Combine related sentences using conjunctions, modifiers, and transitions.
+3. Add descriptive details and eliminate repetitive ideas.
+4. Revise your sentences for variety and flow.
+
+
 ## Teaching Takeaways
 1. **Discussion Questions**:
    - How does Hobbes’ view of human nature differ from other philosophers?
