@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IELTS Task 2: Subjects"
+title: "IELTS Task 2: Population aging"
 date: 2024-12-30
 categories: ielts_writing
 ---
