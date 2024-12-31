@@ -6,9 +6,22 @@ categories: ielts_writing
 ---
 
 ### Writing Task 2: Legislation
+#### Analyse Questions
+Scientists found that most crimes are committed by people who lack education. Some people think that the ***best*** way to reduce the crime rate is to provide prisoners with education because it will help them find a job when they leave prison. To what extent do you agree or disagree?
+**Analyse** 
+The first sentence provides background information and does not need to be discussed.
+Pay attention to the word "best" in the question.
+
+The question includes two complete statements
+A-"Provide prisioners with education"  C-"they can find a job when they leave prison"
+A-"Helping prisoners find a job"   C-"Reduce the crime rate"
+
+- If you agree, you must support both statements
+- If you disagree, you can challenge the first statement. Alternatively, you can challenge the second statement.
+
 
 #### Question
-In many countries, the proportion of older people is steadily increasing.Does this trend have positive or negative effects on society?
+The efficient functioning of society is based on rules and laws. Society would not function well if individuals were free to do whatever they wanted. To what extent do you agree or disagree?
 
 #### My Essay
 Due to advancements in technology and rising wealth, life expectancy has significantly increased over the past several decades. 
