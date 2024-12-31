@@ -17,7 +17,7 @@ categories: ielts_writing
 With advancements in transportation and communication technology, people are no longer tied to a specific location. They can choose to live and work wherever suits their preferences and needs.By living and working in places that align with their goals, people can better leverage their skills and talents, maximizing their potential in ways that were previously limited.With increased opportunities and better alignment of skills to jobs, individuals often see an improvement in their earning potential, leading to a higher standard of living.
 
 2.The ability to choose(A) leads to better quality of life(B), which foster personal and cultural enrichment(C).
-With advancements in transportation and communication technology, people can live and work in locations that better match their preferences, whether for career, lifestyle, or personal well-being.Being able to choose wherer to live and work allows inviduals to prioritize factors like better weather, cleaner environments, or proximity to their interests(e.g.,cultural hubs or outdoor activities).This leads to a more satisfying and enriched life.By relocating to different places, inviduals are exposed to diverse cultures, new ideas, and varied lifestyles, which fosters personal growth and broadens their perspectives beyond their hometowns.
+With advancements in transportation and communication technology, people can live and work in locations that better match their preferences, whether for career, lifestyle, or personal well-being.Being able to choose where to live and work allows inviduals to prioritize factors like better weather, cleaner environments, or proximity to their interests(e.g.,cultural hubs or outdoor activities).This leads to a more satisfying and enriched life.By relocating to different places, inviduals are exposed to diverse cultures, new ideas, and varied lifestyles, which fosters personal growth and broadens their perspectives beyond their hometowns.
 
 **Disadvantages**:
 The freedom to relocate (A) leads to physical separation from families (B), which eventually causes loneliness and weakened family bonds (C).
@@ -30,7 +30,7 @@ While technological advancements allow people to live and work anywhere, this of
 
 
 #### Question
-In many countries, the proportion of older people is steadily increasing.Does this trend have positive or negative effects on society?
+In many countries, it is now possible for people to buy products maded in other countries. To what extent do the benefits of this development outweigh the problems?
 
 #### My Essay
 Due to advancements in technology and rising wealth, life expectancy has significantly increased over the past several decades. 
