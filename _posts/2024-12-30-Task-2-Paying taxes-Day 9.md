@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IELTS Task 2: Population aging"
+title: "IELTS Task 2: Paying taxes"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Population Aging
+### Writing Task 2: Paying taxes
 
 #### Question
 In many countries, the proportion of older people is steadily increasing.Does this trend have positive or negative effects on society?
