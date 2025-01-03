@@ -54,26 +54,69 @@ Exploitation of labor in developing countries
 Loss of cultural identity
 
 #### My Essay
-People can buy products imported from other countries.
-Advantages: 
-People can have easy access to diverse products, which boost their choices. **One major advantages of being able to buy imported products is that it gives consumers more choices.**
-**This wider variety means consumers can choose the products that best meet their needs in terms of quality,price, and features.**
-And because of the import products, which add competition to local products though the government would pose tax on the import products, but because of this market competition from import products, local company must be more keen on improve their products qualities to compete with import products as well we remain their market share.
-**Additionally, imported good create healthy competition in the market. Although governments often impose taxes on imported goods to protect domestic industries, the presence of foreign products pushes local companies to improve the quality and affordability of their offerings to maintain their market share.**
-
-Sometimes, it might be bad for local industry even local employment in some industry sectors. For example, the popularity and import of EV, as there're economic compared with local cars and consumers choose to buy EV instead of their demostic cars, which might make it difficult for local car industry to survive, and threaten the employment rate in the long run if the car factories break down.
+**Nowadays, it has become quite common that people purchase imported products such as food and clothes instead of merely buying local market products.**
+*Nowadays, it has become quite common for people to purchase imported products such as food and clothing instead of relying solely on locally produced goods.*
+**I think this is a good phenomenon though it might bring some bad effect on environments.**
+*While this trend has significant benefits, it may also have some negative environmental impacts. Overall, I believe that the advantages outweigh the drawbacks.*
 
 🔴
+**Having access to imported goods is benefical for customers for it reduced the life costs.**
+*Having access to imported goods is beneficial for consumers as it helps reduce the cost of living*
 
+
+**The counttries who export products usually have comparative advantages as they have technologies and knowledge to control the cost of the products, which leads to the lower prices than other countries.**
+*Countries that export products often have comparative advantages, such as advanced technologies and expertise, allowing them to produce goods at lower costs.*
+
+
+**Though when these imported products come into local markets, they have been posed tax on by governments. However, the price of imported products is still reasonable compared with other products.**
+*As a result,these products are often priced competitively, even after being taxed by local governments.*
+
+
+**Furthermore, as the imported products pouring into local market, it is served as a motivation to inspire local manufactures to innovate their products and lower the prices.**
+*Furthermore,the influx of imported goods into local markets serves as motivation for local manufactures to innovate and reduce their prices.*
+
+
+**As the results, local customers can get access to varied kinds of products with lower prices, which reduced their living cost.**
+*Consequently, consumers benefit from a wider variety of affordable products, which ultimately lowers their overall living expenses.*
+
+**For example, in many developing countries, smartphones imported from China are more affordable than locally made alternatives due to China's advanced manufacturing techniques and economies of scale.**
 
 🔴
+**On the other hand, imported products give customers more choices.** 
+*Moreover, imported goods offer customers more choices and fill gaps that local markets may not be able to address.*
 
+**Some areas can't easy get some poducts because of geography and weather factors.** 
+*In some regions, geographic or climatic factors limit the availability of certain products.*
+
+**For example, people in agriculture area with farms don't have enough muchang, as a result they don't have good quality fresh milk products. Luckily, they can get high-level milk from imported products.**
+*For instance, in agricultural countries where most land is dedicated to crop farming, the lack of suitable pastures and favorable climates often limits the development of dairy farming.*
+
+**In this case, imported products improve their living standard as they could get the products they really need.**
+*This results in a shortage to fresh milk, making imported dairy products a crucial solution to meet demand and enhance people's quality of life.*
 
 🔴
+**However, if the country rely heavily on imported products, which might cause more environment pollutions.**
+*However, a heavy reliance on imported products can contribute to increased environmental pollution.*
+
+**As for some products, there'll be a long journey from the produce location to the market, which would generate more ecological footprint than other products which are produced near the market.**
+*Many imported goods travel long distances from their place of production to the market,resulting in a larger ecological footprint due to transportation-related emissions.This can negatively impact the environment compared to locally produced goods, which require less travel.*
+
+
+**In conclusion, imported products has good environmental consequences, but they'll also lift up the environmental costs.**
+*In conclusion, while the increased availability of imported products improves consumer choices and reduces living costs, it also raises environmental concerns due to higher transportation emissions.*
 
 🟢
 
+#### Assembly Essay
+Nowadays, it has become quite common for people to purchase imported products such as food and clothing instead of relying solely on locally produced goods.While this trend has significant benefits, it may also have some negative environmental impacts. Overall, I believe that the advantages outweigh the drawbacks.
 
+Having access to imported goods is beneficial for consumers as it helps reduce the cost of living.Countries that export products often have comparative advantages, such as advanced technologies and expertise, allowing them to produce goods at lower costs.As a result,these products are often priced competitively, even after being taxed by local governments.Furthermore,the influx of imported goods into local markets serves as motivation for local manufactures to innovate and reduce their prices.Consequently, consumers benefit from a wider variety of affordable products, which ultimately lowers their overall living expenses.
+
+Moreover, imported goods offer customers more choices and fill gaps that local markets may not be able to address.In some regions, geographic or climatic factors limit the availability of certain products.For instance, in agricultural countries where most land is dedicated to crop farming, the lack of suitable pastures and favorable climates often limits the development of dairy farming.This results in a shortage to fresh milk, making imported dairy products a crucial solution to meet demand and enhance people's quality of life.
+
+However, a heavy reliance on imported products can contribute to increased environmental pollution.Many imported goods travel long distances from their place of production to the market,resulting in a larger ecological footprint due to transportation-related emissions.This can negatively impact the environment compared to locally produced goods, which require less travel.
+
+In conclusion, while the increased availability of imported products improves consumer choices and reduces living costs, it also raises environmental concerns due to higher transportation emissions.
 
 
 
