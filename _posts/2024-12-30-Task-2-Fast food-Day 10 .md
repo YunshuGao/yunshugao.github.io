@@ -8,7 +8,7 @@ categories: ielts_writing
 ### Writing Task 2: Fast food
 
 #### Question
-In many countries, the proportion of older people is steadily increasing.Does this trend have positive or negative effects on society?
+In many countries traditional food is being replaced by international fast food. Some claim that this has negative effects on both families and societies. To what extent do you agree or disagree?
 
 #### My Essay
 Due to advancements in technology and rising wealth, life expectancy has significantly increased over the past several decades. 
