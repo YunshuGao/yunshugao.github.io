@@ -13,10 +13,23 @@ The advantages brought by the spread of English as a "global language" will outw
 #### My Essay
 
 ### Introduction
-Nowadays, more people have been learning and speaking English. While the popularity of English might pose a danger to other languages, I still firmly believe that the wild spread of English is a good sign.
+**Nowadays, more people have been learning and speaking English.**
+*In today's world, English has become the most widely spoken language, with an increasing number of people learning and using it.*
+
+**While the popularity of English might pose a danger to other languages, I still firmly believe that the wild spread of English is a good sign.**
+*While the growing dominance of English may pose risks to the preservation of other languages, I firmly believe that the benefits of its widespread use far outweigh the drawbacks.*
 
 ### Body paragraph 1
-The widespread use of English promote global cooperation as it helps people overcome language barriers in the international setting. People from all over the world can share ideas and knowledge, exchange information, explore business opportunities and carry out projects together. As a result, communications make it possible for global collaboration and collaborate globally.
+**The widespread use of English promote global cooperation as it helps people overcome language barriers in the international setting.** 
+*The widespread use of English facilities global cooperation by helping people overcome language barriers in international contexts.*
+
+**People from all over the world can share ideas and knowledge, exchange information, explore business opportunities and carry out projects together.** 
+*Individuals from diverse cultural backgrounds can share ideas, exchange knowledge, explore business opportunities, and collaborate on projects more effectively.*
+
+*For instance, multinational organizations and international academic conferences rely heavily on English as a common medium of communication.*
+
+**As a result, communications make it possible for global collaboration and collaborate globally.**
+*This shared linguistic platform fosters strong connections and enables seamless collaboration on a global scale.*
 
 ### Body paragraph 2
 Another advantage for wide spread of English is that it help people expand knowledge and broadedn horizons.People have a good command of English can easlity watch News, magazines and books from English-speaking countries, so that they could easily understand the world. These insights rare beneficial for them as they could get to know some good value and lifestyles of English-speaking countries.
