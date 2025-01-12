@@ -13,6 +13,7 @@ Some people think school should only teach students academic subjects. Others th
 #### My Essay
 
 ### Introduction
+Some believe that schools should concentrate solely on academic subjects to help students succeed in their careers, while others argue that teaching students to distinguish between right and wrong is equally important.
 
 ### Body paragraph 1
 
