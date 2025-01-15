@@ -21,7 +21,14 @@ By comparison, there was a dramatic fall in the figure for rail transportation f
 
 Overall, almost every means of transport in UK saw an upward trend in the goods delivery with rail as the only exception. Road transportation delivered more goods than any other means of transport.
 
+### Writing Task 1: Line with prediction
 
+#### Question
+The graph below gives information from a 2008 report about consumption of energy in the USA since 1980 with projections until 2030.
+![image](https://github.com/user-attachments/assets/aad28df1-7b41-404a-bc44-d5f6e87a53ba)
+
+
+#### Essay
 
 
 
