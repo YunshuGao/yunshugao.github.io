@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IELTS Task 2: Flow chart"
+title: "IELTS Task 1: Flow chart"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Flow chart
+### Writing Task 1: Flow chart
 
 #### Question
 The diagrams below show the stages and equipment used in the cement-making process, and how cement is used to produce concrete for building purposes.
