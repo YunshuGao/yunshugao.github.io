@@ -25,10 +25,14 @@ Overall, almost every means of transport in UK saw an upward trend in the goods 
 
 #### Question
 The graph below gives information from a 2008 report about consumption of energy in the USA since 1980 with projections until 2030.
+
 ![image](https://github.com/user-attachments/assets/aad28df1-7b41-404a-bc44-d5f6e87a53ba)
 
-
-#### Essay
+### Essay
+The line graph shows the amount of energy consumed in the US from 1980 to 2020, as well as projected consumption to 2030.
+Petrol and oil are the most important energy sources throughout the period: despite staying below 35 quadrillion units in the first 15 years, the consumption of these two fuels rises steadily and is projected to increase consistently before reaching 50 quadrillion in 2030. The use of coal was similar to that of natural gas before 2015, but the gap between these two fuels is likely to widen. The year 2030 will see the coal consumption rise to 30 or so quadrillion units, around 5 quadrillion higher than the figure for natural gas.
+In contrast, the use of new energy sources, including nuclear, solar/wind and hydropower, is much lower. There will be a steady rise in nuclear power consumption and a similar pattern in solar/wind power usage, reaching about 8 and 5 quadrillion units respectively in 2030. Hydropower is the only energy source that will not record any growth with the figure staying basically unchanged below 4 quadrillion units-despite fluctuation.
+Overall, the projection is that Americans will rely more on fossil fuels, such as petrol and oil, than on cleaner counterparts. The energy production of all resources is expected to rise to varying degrees, while the use of hydropower will show a different pattern.
 
 
 
