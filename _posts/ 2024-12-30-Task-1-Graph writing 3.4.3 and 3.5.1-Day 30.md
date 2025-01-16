@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IELTS Task 2: Flow chart & Map"
+title: "IELTS Task 1: Flow chart & Map"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Flow chart II
+### Writing Task 1: Flow chart II
 
 #### Question
 The diagrams below show the life cycle of a species of large fish called the salmon.
