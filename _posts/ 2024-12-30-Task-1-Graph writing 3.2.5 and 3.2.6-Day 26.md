@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IELTS Task 2: Pie chart and comparison"
+title: "IELTS Task 1: Pie chart and comparison"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Pie chart and comparison
+### Writing Task 1: Pie chart and comparison
 
 #### Question
 The pie charts below show units of electricity production by fuel source in Australia and France in 1980 and 2000.
