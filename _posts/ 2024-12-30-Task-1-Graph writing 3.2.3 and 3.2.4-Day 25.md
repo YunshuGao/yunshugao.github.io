@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IELTS Task 2: Pie chart and Table"
+title: "IELTS Task 1: Pie chart and Table"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Pie chart
+### Writing Task 1: Pie chart
 
 #### Question
 ![image](https://github.com/user-attachments/assets/bb30fd0c-c31e-4faa-ac70-15329ccc3a2d)
