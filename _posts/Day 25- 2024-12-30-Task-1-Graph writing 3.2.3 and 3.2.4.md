@@ -1,35 +1,32 @@
 ---
 layout: post
-title: "IELTS Task 2: Population aging"
+title: "IELTS Task 2: Pie chart and Table"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Population Aging
+### Writing Task 2: Pie chart
 
 #### Question
-In many countries, the proportion of older people is steadily increasing.Does this trend have positive or negative effects on society?
+![image](https://github.com/user-attachments/assets/bb30fd0c-c31e-4faa-ac70-15329ccc3a2d)
+![image](https://github.com/user-attachments/assets/b3eeb809-a1fd-4270-9a23-49564705294d)
 
-#### My Essay
-Due to advancements in technology and rising wealth, life expectancy has significantly increased over the past several decades. 
-🔴**Technological change and the increase in personal wealth have contributed to the improvement in life expectancy, and many countries have seen their population aging at an unprecedented pace.**
-While an aging society allows older inviduals to contribute to society, the demographic shift also presents numerous challenges.
+#### Essay
+The charts present the findings of a survey about what British students considered when choosing a tertiary institution in two different years.
+The availability of suitable courses and degrees was the most important consideration in both years, although the proportion of students who chose this factor dropped from 40% to 34%. The cost of education was the next consideration in 1982, mentioned by 28% of students, but the figure decreased sharply to 5% in 2002.  A similar trend was seen in the attitude towards the distance to parental homes, with the figure declining from 19% to 16%.
+Different patterns were seen in the changes to other three factors. The proportion of students who focused on the reputation of the university increased fivefold to 25%, while the percentage of those who valued the access to amentities and sports facilities more than tripled to 18% in 2002. By comparison, only a fraction of respondents chose admission criteria (2% and 3% respectively in these two years).
+Overall, university applicants in the UK paid closer attention to suitable courses and degrees than to any other factor. The fame of a university and the access to amenities or sports facilities increased in importance, while the weight of other factors dropped or remained basically unchanged.
 
-One problem associated with an aging population is the rapid increase in healthcare costs, which places a significant burden on taxpayers.Most medical needs and expenses tend to occur during the later years of life. As a result, the government needs to allocate more funds to taking care of elderly people, which may reduce the budget available for other key services such as education and social welfare.
-🔴**One social problem related to population ageing is that the medical cost will increase dramatically and hurt the economy. As people age, their demand for medical care often rises due to age-related conditions such as diabetes, high blood pressure, and chronic respiratory diseases. For instance, older adults may require long-term care, frequent medical checkups, and prescription medications, all of which contributes to increased government spending.Countries with a growing proportion of elderly citizens may need to allocate substantial portions of their budgets to healthcare, potentially diverting funds away from other essential sectors like education or infrastructure development.**
+#### Questions
+The table shows the amount of waste produced by different countries in 1980,1990 and 2000.
+Summarise the information by selecting and reporting the main features, and make comparisions where relevant.
+![image](https://github.com/user-attachments/assets/718e2cf7-861f-49b9-935d-eb67c822f0d6)
 
-The slowing pace of work could be another issue associated with increasing number of senior workers. As people age, their ability to absorb information and complete tasks tends to slow down.If elderly people postpone their retirement and prolong their working lives, it could impact the productivity and profitability of companies.
-🔴**Another problem is that the productivity of society may decline as the number of workers aged 65 and above increases.An aging society typically raises the retirement age to keep pension systems sustainable,meaning more senior workers remain in the labour force well into their 60s.For those in physically demanding industries, such as construction, mining and agriculture, the challenges can be particularly significant.These workers may face limitations in strength, stamina,and agility, making it harder to meet the physical requirements of their jobs.If older employees continue working in such roles, their reduced capacity to perform tasks efficiently could lead to slower work progress and decreased overall productivity.**
-
-On the other hand, many people choose to delay retirement and extend their professional careers, bringing their experience and wisdom as valuable assets. Since people are living longer, they often choose to remain in their positions, where they are experts in their respective fields.They can work as consultants, passing on their knowledge and skills to younger generation. For example, some senior managers can teach younger employees how to manage a company and provide better services to customers.
-🟢**On the other hand, it is possible that societies can tap into the wisdom and experience of elderly people.Having worked for decades, they are experts in their fields of work and have practical experience, specialist knowledge and work-related tips that they can share with younger generations. Senior business managers, for example, can teach young people how to manage a company and to deal with complaints and queries of clients, while veteran researchers can pass on their knowledge to young scientists about how to oversee and execute projects.**
-
-In conclusion, the dramatic increase in life expectancy has placed significant pressure on healthcare systems in many countries and has also impacted workforce productivity. While the wisdom of older generations can be utilized, this demographic shift inevitable affect economic development.
-**In conclusion, a rapidly aging population can impose a strain on the medical system and reduce the productivity in several key work sectors. While these societal challenges are difficult to address, tapping into the wisdom and experience of elderly individuals offers a valuable opportunity to create benefits for society as whole.**
-
-
-
-
+#### Essay
+The chart provides information about the waste production of six countries in the years 1980, 1990 and 2000.
+The US was the biggest waste producer among these six countries, with the waste produced increasing nearly two-fold from 2003 million to 4005 million tonnes in 2000, with no figure provided for the year 1980.
+Waste production was noticeably lower in other countries.While the figures for ireland and Poland increased slightly to 3 and 5 million tonnes respectively in 2000, the waste produced in Portugal remained roughly unchanged at around 10 million.
+Overall, the US created far more waste than other five countries combined. The US and Japan were the only two countries which recorded a growth in waste production during the period in question.
 
 #### Feedback
 - Strength: Clear use of comparative phrases.
