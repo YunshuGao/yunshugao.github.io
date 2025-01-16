@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IELTS Task 2: Map"
+title: "IELTS Task 1: Map"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Map
+### Writing Task 1: Map
 
 #### Question
 The maps below show the centre of a small town called Islip as it is now, and plans for its development.
