@@ -1,34 +1,35 @@
 ---
 layout: post
-title: "IELTS Task 2: Population aging"
+title: "IELTS Task 2: Pie chart with multi categories"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Population Aging
+### Writing Task 2: Pie chart with multi categories
 
 #### Question
-In many countries, the proportion of older people is steadily increasing.Does this trend have positive or negative effects on society?
+The pie chart shows the main reasons why agricultural land becomes less productive. The table shows how these causes affected three regions of the world during the 1990s.
+Summarise the information by selecting and reporting the main features and make comparisons where relevant.
+![image](https://github.com/user-attachments/assets/8b65b2cd-b14c-472e-b069-f10b1b431f89)
 
-#### My Essay
-Due to advancements in technology and rising wealth, life expectancy has significantly increased over the past several decades. 
-🔴**Technological change and the increase in personal wealth have contributed to the improvement in life expectancy, and many countries have seen their population aging at an unprecedented pace.**
-While an aging society allows older inviduals to contribute to society, the demographic shift also presents numerous challenges.
-
-One problem associated with an aging population is the rapid increase in healthcare costs, which places a significant burden on taxpayers.Most medical needs and expenses tend to occur during the later years of life. As a result, the government needs to allocate more funds to taking care of elderly people, which may reduce the budget available for other key services such as education and social welfare.
-🔴**One social problem related to population ageing is that the medical cost will increase dramatically and hurt the economy. As people age, their demand for medical care often rises due to age-related conditions such as diabetes, high blood pressure, and chronic respiratory diseases. For instance, older adults may require long-term care, frequent medical checkups, and prescription medications, all of which contributes to increased government spending.Countries with a growing proportion of elderly citizens may need to allocate substantial portions of their budgets to healthcare, potentially diverting funds away from other essential sectors like education or infrastructure development.**
-
-The slowing pace of work could be another issue associated with increasing number of senior workers. As people age, their ability to absorb information and complete tasks tends to slow down.If elderly people postpone their retirement and prolong their working lives, it could impact the productivity and profitability of companies.
-🔴**Another problem is that the productivity of society may decline as the number of workers aged 65 and above increases.An aging society typically raises the retirement age to keep pension systems sustainable,meaning more senior workers remain in the labour force well into their 60s.For those in physically demanding industries, such as construction, mining and agriculture, the challenges can be particularly significant.These workers may face limitations in strength, stamina,and agility, making it harder to meet the physical requirements of their jobs.If older employees continue working in such roles, their reduced capacity to perform tasks efficiently could lead to slower work progress and decreased overall productivity.**
-
-On the other hand, many people choose to delay retirement and extend their professional careers, bringing their experience and wisdom as valuable assets. Since people are living longer, they often choose to remain in their positions, where they are experts in their respective fields.They can work as consultants, passing on their knowledge and skills to younger generation. For example, some senior managers can teach younger employees how to manage a company and provide better services to customers.
-🟢**On the other hand, it is possible that societies can tap into the wisdom and experience of elderly people.Having worked for decades, they are experts in their fields of work and have practical experience, specialist knowledge and work-related tips that they can share with younger generations. Senior business managers, for example, can teach young people how to manage a company and to deal with complaints and queries of clients, while veteran researchers can pass on their knowledge to young scientists about how to oversee and execute projects.**
-
-In conclusion, the dramatic increase in life expectancy has placed significant pressure on healthcare systems in many countries and has also impacted workforce productivity. While the wisdom of older generations can be utilized, this demographic shift inevitable affect economic development.
-**In conclusion, a rapidly aging population can impose a strain on the medical system and reduce the productivity in several key work sectors. While these societal challenges are difficult to address, tapping into the wisdom and experience of elderly individuals offers a valuable opportunity to create benefits for society as whole.**
+#### Essay
+The chart, as well as the table, provides information about the causes of the world's land degradation and the severity of this problem in North America, Europe and Oceania in the 1990s.
+Over-grazing is the primary cause of land degradation, with 35% of the world's land degradation attributed to this factor. It is followed by another two main causes, namely,deforestation and over-cultivation, contributing to 30% and 28% respectively. The remaining 7% is caused by other factors.
+This appeared to be supported by the data presented by the table about the situation in the 1990s.Over-grazing was responsible for 11.3% of degradation in Oceania, 5.5% in Europe and 1.5% in North America, which, when combined, contributed to a larger proportion of land degradation than the other two factors.
+Europe had a higher level of degradation than other two regions. Of the 23% of land degraded in Europe, 9.8% was caused by deforestation and 7.7% by over-cultivation, both higher than the proportion of degradation caused by these two factors in other two regions.
+Overall, over-grazing is the main contributor to the world's land degradation. In total, the proportion of degradation attributable to this problem in these three regions was higher than the figure for either deforestation or over-cultivation.
 
 
+#### Question
+The charts below show the main reasons for study among students of different age groups and the amount of support they received from employers.
+Summarise the information by selecting the reporting the main features and make comparisons where relevant.
+![image](https://github.com/user-attachments/assets/8da6191b-7cec-4f4f-a6ba-edaed7155897)
 
+#### Essay
+The bar charts provide information about the proportion of students who studied for career or out of interest and also the percentage of students who received support from employers for education.
+Up to 80% of people under the age of 26 studied for their careers, significantly higher than the proportion of people studying for personal interests(around 10%). The figure for career-driven education dropped with age and reached 40% for the 40-49 age group, on a par with the proportion of people of the same age studying for personal interests. Only 19% of people aged 49 or older studied for their employment prospects, significantly lower than the figure for their counterparts driven by personal interests.
+Over 60% of people aged under 26 received employment support, compared with 50% of those aged 26 to 29 and only 33% of the 30-39-year-olds. About 35% of people aged 40 to 49 had their education supported by employers, in contrast to 42% of those aged 49 or over.
+Overall, younger age groups(those under the age of 39) were more likely than their older counterparts to study for career. The likelihood of gaining assistance from employers was also relatively high before people turned 30.
 
 
 #### Feedback
