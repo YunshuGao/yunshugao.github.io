@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IELTS Task 2: Bar chart and comparison"
+title: "IELTS Task 1: Bar chart and comparison"
 date: 2024-12-30
 categories: ielts_writing
 ---
