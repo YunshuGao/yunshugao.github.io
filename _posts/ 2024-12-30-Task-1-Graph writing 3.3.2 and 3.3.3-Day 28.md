@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "IELTS Task 2: Pie chart with multi categories"
+title: "IELTS Task 1: Pie chart with multi categories"
 date: 2024-12-30
 categories: ielts_writing
 ---
 
-### Writing Task 2: Pie chart with multi categories
+### Writing Task 1: Pie chart with multi categories
 
 #### Question
 The pie chart shows the main reasons why agricultural land becomes less productive. The table shows how these causes affected three regions of the world during the 1990s.
