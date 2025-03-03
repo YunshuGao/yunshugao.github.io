@@ -11,7 +11,16 @@ tags: speaking part1 part2 part3 practice
 ## Part 1: Several topics 🏡
 
 ### Question:
-**What do you usually do in your free time?**
+**What activities do young people like to do in your country?**
+**Do you know what the fashion trend among young people is like in your country?**
+**Do you like quiet or noisy places?**
+**Would you like to go to quiet or noisy places on weekends when you are free?**
+**Do you like parties**
+**How often did you have a party when you were a kid**
+**Have you ever organized a party**
+
+
+
 
 ### My Answer:
 In my free time, I enjoy reading books and watching documentaries. Recently, I have also started learning photography, which allows me to explore creativity. Sometimes, I go for a walk to relax and reflect on my thoughts. I think having hobbies is essential because they help me relieve stress and learn new skills.
