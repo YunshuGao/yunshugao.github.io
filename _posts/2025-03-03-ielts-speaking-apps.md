@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "IELTS Speaking Practice - Hobbies"
+title: "IELTS Speaking Practice - Apps"
 date: 2025-03-03
 categories: ielts_speaking
 tags: speaking part1 part2 part3 practice
 ---
 
-# IELTS Speaking Practice - Hobbies 🎤
+# IELTS Speaking Practice - Apps 🎤
 
-## Part 1: Hobbies & Free Time 🏡
+## Part 1: Apps 🏡
 
 ### Question:
-**What do you usually do in your free time?**
+**What kind of apps have you downloaded on your phone?**
+**What apps do you still use?**
+**What kind of apps have you downloaded on your phone?**
+**What apps do you still use?**
 
-### My Answer:
+
+### My Answer & Adjustment:
 In my free time, I enjoy reading books and watching documentaries. Recently, I have also started learning photography, which allows me to explore creativity. Sometimes, I go for a walk to relax and reflect on my thoughts. I think having hobbies is essential because they help me relieve stress and learn new skills.
+
 
 ### Reflection:
 - I need to add more details and examples to make my answer sound more natural.
