@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IELTS Speaking Part 2
-permalink: /ielts-speaking/part2/
+permalink:/blog/ielts-speaking/part2/
 ---
 
 # 🎤 IELTS Speaking – Part 2: Cue Cards
