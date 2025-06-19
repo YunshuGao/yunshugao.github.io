@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IELTS Speaking Part 3
-permalink: /ielts-speaking/part3/
+permalink: /blog/ielts-speaking/part3/
 ---
 
 # 💬 IELTS Speaking – Part 3: Discussion
