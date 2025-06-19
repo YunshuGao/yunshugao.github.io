@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Teaching Reflections
-permalink: /blog/teaching-reflections/
+title: Teaching Reflection
+permalink: /teaching-reflection/
 ---
 
-# Teaching Reflections
+# 🧑‍🏫 Teaching Reflection
 
-Explore my thoughts and experiences on teaching strategies and classroom management:
+Reflections from my school placements, lessons I observed, and things I’ve learned on my teaching journey.
 
-## Blog Posts
-{% for post in site.categories.teaching_reflections %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+---
+
+## 📘 Recent Reflections
+
+{% for post in site.categories.teaching %}
+- **[{{ post.title }}]({{ post.url }})** — {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
