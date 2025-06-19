@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Technology Learning
-permalink: /tech-learning/
+permalink: /blog/tech-learning/
 ---
 
 # 💻 Technology Learning
