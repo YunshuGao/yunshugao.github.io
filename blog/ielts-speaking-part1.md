@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IELTS Speaking Part 1
-permalink: /ielts-speaking/part1/
+permalink: /blog/ielts-speaking/part1/
 ---
 
 # 🗣️ IELTS Speaking – Part 1: Introduction & Interview
