@@ -1,16 +1,16 @@
 ---
 layout: default
-title: IELTS Speaking Practice
-permalink: /blog/ielts-speaking/
+title: IELTS Speaking Part 1
+permalink: /ielts-speaking/part1/
 ---
 
-# IELTS Speaking Training 🎙️
+# 🗣️ IELTS Speaking – Part 1: Introduction & Interview
 
-Welcome to my IELTS Speaking practice page! Here, I document my speaking exercises, strategies, and reflections to improve fluency and coherence.
+Short personal questions about hobbies, studies, work, hometown...
 
 ---
 
-## Latest Speaking Practices 🗣️
-{% for post in site.categories.ielts_speaking %}
-- **[{{ post.title }}]({{ post.url }})** - {{ post.date | date: "%B %d, %Y" }}
+{% for post in site.categories.ielts_speaking_part1 %}
+- **[{{ post.title }}]({{ post.url }})** — {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
+
