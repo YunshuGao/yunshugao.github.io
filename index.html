@@ -9,6 +9,8 @@
       --main-bg: #f5f5f5;
       --text-color: #2c2c2c;
       --accent-color: #1a1a1a;
+      --link-color: #333;
+      --hover-color: #000;
       --section-padding: 40px;
       --content-width: 800px;
     }
@@ -26,41 +28,17 @@
     }
 
     header {
-      position: relative;
-      background-image: url('https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=1600&q=80'); /* lush green forest with person */
-      background-size: cover;
-      background-position: center;
-      height: 300px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
+      background-color: white;
+      border-bottom: 1px solid #e0e0e0;
+      padding: 60px 20px;
       text-align: center;
     }
 
-    header::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: rgba(0, 0, 0, 0.45); /* dark overlay for readability */
-    }
-
-    header h1,
-    header p {
-      position: relative;
-      z-index: 1;
-    }
-
     header h1 {
-      font-size: 2.8rem;
-      font-weight: 600;
       margin: 0;
-    }
-
-    header p {
-      font-size: 1.1rem;
-      margin-top: 12px;
-      color: #e0e0e0;
+      font-weight: 500;
+      font-size: 2.5rem;
+      color: var(--accent-color);
     }
 
     main {
@@ -89,13 +67,19 @@
 
     a {
       text-decoration: none;
-      color: #2c2c2c;
+      color: var(--link-color);
       font-size: 1.05rem;
       transition: color 0.2s ease;
     }
 
     a:hover {
-      color: #006644;
+      color: var(--hover-color);
+    }
+
+    .intro {
+      font-size: 1.1rem;
+      color: #444;
+      margin-top: 20px;
     }
 
     footer {
@@ -112,10 +96,8 @@
 <body>
 
   <header>
-    <div>
-      <h1>Yunshu Gao</h1>
-      <p>A quiet walk through learning, teaching, and self-expression</p>
-    </div>
+    <h1>Yunshu Gao</h1>
+    <p class="intro">A personal learning archive for teaching, writing, and reflection</p>
   </header>
 
   <main>
@@ -132,11 +114,11 @@
     </ul>
 
     <h2>About This Site</h2>
-    <p>This site is my personal archive as I grow into a global educator and creative thinker. It captures my reflections on teaching, learning, and becoming.</p>
+    <p>This space serves as my personal archive while I grow as an educator, programming developer and writer. It reflects my practice in teaching technologies, English fluency, critical thinking, and storytelling.</p>
   </main>
 
   <footer>
-    &copy; 2024 Yunshu Gao — Built with GitHub Pages
+    &copy; 2024 Yunshu Gao – Built with GitHub Pages
   </footer>
 
 </body>
