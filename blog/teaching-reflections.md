@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching Reflection
-permalink: /teaching-reflection/
+permalink: /blog/teaching-reflection/
 ---
 
 # 🧑‍🏫 Teaching Reflection
