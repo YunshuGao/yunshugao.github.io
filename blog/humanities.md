@@ -1,42 +1,37 @@
 ---
 layout: default
-title: Humanities
+title: Humanities Reflections
 permalink: /blog/humanities/
 ---
 
-# Humanities 🌍
+# 📚 Humanities Reflections
 
-Explore reflections, reading notes, and tools for teaching Humanities in an engaging way.
-
----
-
-## Sections
-- [Teaching Reflections](#teaching-reflections)
-- [Reading Notes](#reading-notes)
-- [Blog Posts](#blog-posts)
+I use this page to collect insights and thoughts from the media I engage with — including books, musicals, films, and videos about literature, society, and philosophy.
 
 ---
 
-### Teaching Reflections 💡
-Insights and strategies to teach Humanities effectively:
-- **Critical Thinking**: How to foster debate and discussion in the classroom.
-- **Engagement Strategies**: Tools to make history, geography, and civics exciting for students.
+## 🎭 Musicals
+
+### *Jesus Christ Superstar*
+- ✨ Expression of love through sacrifice
+- 🎵 I was drawn to how the music expressed sorrow and strength together.
+- 💭 Reflection: It reminded me why I want to understand Christianity...
 
 ---
 
-### Reading Notes 📚
-Here are my notes and reflections on humanities readings:
+## 📺 CrashCourse Notes
 
-{% for post in site.categories.humanities_reading %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-  - **Key Takeaway**: {{ post.excerpt }}
-{% endfor %}
+### *CrashCourse Sociology – Episode 1*
+- Key Idea: Society is structured by invisible rules
+- Quote I liked: _“Seeing the general in the particular.”_
+- Connection: I once audited a course in Chinese Society, and it said something similar...
 
 ---
 
-### Blog Posts 📝
-Reflections and tools for teaching Humanities:
+## 📖 Other Thoughts
 
-{% for post in site.categories.humanities %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+- ✍️ I plan to watch *Rhinoceros in Love* again and take notes next time.
+- 🧠 Questions I want to explore:  
+   - What makes a story emotionally “true”?  
+   - How do people from different cultures experience loneliness?
+
