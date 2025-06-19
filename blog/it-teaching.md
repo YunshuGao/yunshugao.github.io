@@ -1,14 +1,18 @@
 ---
 layout: default
-title: IT Teaching
-permalink: /blog/it-teaching/
+title: Technology Learning
+permalink: /tech-learning/
 ---
 
-# IT Teaching
+# 💻 Technology Learning
 
-Insights and strategies for teaching IT effectively, including learning process,lesson ideas and tools:
+This page is for logging everything I learn to prepare for my future tech teaching career — web design, Python, Java, HTML/CSS, and teaching tools.
 
-## Blog Posts
-{% for post in site.categories.it_teaching %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
+---
+
+## 🧩 Topics I'm Working On
+
+- [HTML & CSS Basics](/tech-learning/html-basics)
+- [Learning Python for Classrooms](/tech-learning/python-basics)
+- [Java for Beginners](/tech-learning/java-notes)
+- [Web Project: Student Portfolio](/tech-learning/student-portfolio)
