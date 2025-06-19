@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Learning English
-permalink: /blog/learning-english/
+title: IELTS Writing Practice
+permalink: /blog/ielts-writing/
 ---
 
-# Learning English 🌏
+# IELTS Writing practice 🌏
 
-Welcome to my Learning English page! Here, I share all my practice essays, reflections, and tips for mastering IELTS Writing.
+This is where I log my writing Task 1 and Task 2 practices.
 
 ---
 
-## Latest Essays 📝
+## Latest Writing Posts
+
 {% for post in site.categories.ielts_writing %}
-- **[{{ post.title }}]({{ post.url }})** - {{ post.date | date: "%B %d, %Y" }}
+- **[{{ post.title }}]({{ post.url }})** — {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
-
 
 
 
