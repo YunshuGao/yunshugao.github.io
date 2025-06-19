@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IELTS Speaking Training
+title: IELTS Speaking Practice
 permalink: /blog/ielts-speaking/
 ---
 
