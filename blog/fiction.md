@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fiction Writing
-permalink: /fiction/
+permalink: /blog/fiction/
 ---
 
 # ✨ Fiction Writing
