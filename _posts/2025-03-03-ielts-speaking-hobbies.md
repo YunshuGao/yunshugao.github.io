@@ -2,7 +2,7 @@
 layout: post
 title: "IELTS Speaking Practice - Hobbies"
 date: 2025-03-03
-categories: ielts_speaking
+categories: ielts_speaking_part1
 tags: speaking part1 part2 part3 practice
 ---
 
